@@ -1,6 +1,6 @@
 +++
-title = "Ion Mobility Mass Spectrometry Measures the Conformational Landscape of P27 and Its Domains and How This Is Modulated upon Interaction with Cdk2/cyclin A"
-date = ""
+title = "Ion Mobility Mass Spectrometry Measures the Conformational Landscape of p27 and Its Domains and How This Is Modulated upon Interaction with Cdk2/cyclin A"
+date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rebecca Beveridge", "Lukasz G. Migas", "Richard Kriwacki", "Perdita E. Barran"]

@@ -1,6 +1,6 @@
 +++
 title = "Bottom-Up Elucidation of Glycosidic Bond Stereochemistry"
-date = ""
+date = "2017-06-06"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Christopher J. Gray", "Baptiste Schindler", "Lukasz G. Migas", "Martina Picmanova", "Abdul R. Allouche", "Anthony P. Green", "Mohammed S. Motawia", "Raquel Sanchez-Perez", "Nanna Bjarnholt", "Birger L. Moller", "Anouk M. Rijs","Perdita E. Barran", "Isabelle Compagnon", "Claire E. Eyers", "Sabine L. Flitsch"]
