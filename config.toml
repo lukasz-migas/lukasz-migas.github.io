@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "LUKASZ MIGAS"
+title = "Lukasz Migas"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -64,7 +64,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "lukasz.migas@manchester.ac.uk"
   phone = "+44 7738207371"
-  keybase = "lukasz-migas.github.io"  # Your keybase.io username.
+  # keybase = "lukasz-migas.github.io"  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -220,7 +220,7 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    publication_format = 0
 
     # Talk list format.
     #   0 = Simple
@@ -290,11 +290,6 @@ enableGitInfo = false
   name = "Publications"
   url = "#publications_selected"
   weight = 2
-
-# [[menu.main]]
-#   name = "Posts"
-#   url = "#posts"
-#   weight = 3
 
 [[menu.main]]
   name = "Projects"
