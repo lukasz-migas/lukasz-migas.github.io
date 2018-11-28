@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Mass Spectrometry", "Ion Mobility", "Imaging Mass Spectrometry", "Python", "Data Visualization", "Artificial Intelligence", "Machine Learning"
+    "Mass Spectrometry", "Ion Mobility", "Imaging Mass Spectrometry", "Python", "Data Visualization", "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).

@@ -1,6 +1,7 @@
 +++
 title = "ORIGAMI: A software suite for activated ion mobility mass spectrometry (aIM-MS) applied to multimeric protein assemblies"
-date = "2018-09-02"
+date = 2018-09-02T00:00:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Lukasz G. Migas", "Aidan P. France", "Bruno Bellina", "Perdita E. Barran"]
@@ -32,22 +33,29 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#projects = ["ORIGAMI"]
+projects = ["ion-mobility", "mass-spectrometry", "python"]
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
 
 # Links (optional).
-#url_pdf = "#"
+#url_pdf = ""
 url_preprint = "https://www.sciencedirect.com/science/article/pii/S1387380617302695"
 url_code = "https://github.com/lukasz-migas/ORIGAMI"
-#url_dataset = "#"
-#url_project = "#"
-#url_slides = "#"
-#url_video = "#"
-#url_poster = "#"
+#url_dataset = ""
+#url_project = ""
+#url_slides = ""
+#url_video = ""
+#url_poster = ""
 #url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = ""
 
 # Does the content use math formatting?
 math = false
@@ -56,9 +64,12 @@ math = false
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "origami_main.png"
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 +++

@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 10
 
 # Content.
 # Display content from the following folder.
@@ -22,7 +22,7 @@ view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
-widget_layout = 0
+widget_layout = 1
 
 # For Showcase view, flip alternate rows?
 flip_alt_rows = false
@@ -36,17 +36,22 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+[[filter]]
+  name = "All"
+  tag = "*"
+
+[[filter]]
+  name = "Mass Spectrometry"
+  tag = "mass-spectrometry"
+
+[[filter]]
+  name = "Ion Mobility"
+  tag = "ion-mobility"
+
+[[filter]]
+  name = "Python"
+  tag = "python"
+
 
 +++
 

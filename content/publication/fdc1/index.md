@@ -1,6 +1,6 @@
 +++
 title = "Mass spectrometry locates local and allosteric conformational changes that occur on cofactor binding"
-date = "2016-07-16"
+date = 2016-07-16T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rebecca Beveridge", "Lukasz G. Migas", "Karl A. P. Payne", "Nigel S. Scrutton", "David Leys", "Perdita E. Barran"]
@@ -27,7 +27,7 @@ abstract = "Fdc1 is a decarboxylase enzyme that requires the novel prenylated FM
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,6 +49,9 @@ url_preprint = "https://www.nature.com/articles/ncomms12163"
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
+# Digital Object Identifier (DOI)
+doi = ""
+
 # Does the content use math formatting?
 math = false
 
@@ -56,9 +59,12 @@ math = false
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "fdc1_main.jpg"
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 +++

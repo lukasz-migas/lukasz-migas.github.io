@@ -1,6 +1,7 @@
 +++
 title = "Ion Mobility Mass Spectrometry Uncovers the Impact of the Patterning of Oppositely Charged Residues on the Conformational Distributions of Intrinsically Disordered Proteins"
-date = "2019-01-01"
+date = 2018-01-01T00:00:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rebecca Beveridge", "Lukasz G. Migas", "Rahul Das", "Rohit Pappu", "Richard Kriwacki", "Perdita E. Barran"]
@@ -23,16 +24,17 @@ publication = "*ChemRxiv*"
 # Abstract and optional shortened version.
 abstract = "The global dimensions and amplitudes of conformational fluctuations of intrinsically disordered proteins are governed, in part, by the linear segregation versus clustering of oppositely charged residues within the primary sequence. Ion Mobility-Mass Spectrometry (IM-MS) affords unique advantages for probing the conformational consequences of the linear patterning of oppositely charged residues because it measures and separates proteins electrosprayed from solution on the basis of charge and shape. Here, we use IM-MS to measure the conformational consequences of charge patterning on the C-terminal intrinsically disordered region (p27 IDR) of the cell cycle inhibitory protein p27Kip1. We report the range of charge states and accompanying collisional cross section distributions for wild-type p27 IDR and two variants with identical amino acid compositions, κ14 and κ56, distinguished by the extent of linear mixing versus segregation of oppositely charged residues. Wild-type p27 IDR (κ31) and κ14 where the oppositely charged residues are more evenly distributed, exhibit a broad distribution of charge states. This is concordant with high degrees of conformational heterogeneity in solution. By contrast, κ56 with linear segregation of oppositely charged residues, leads to limited conformational heterogeneity and a narrow distribution of charged states. Molecular dynamics simulations demonstrate that the interplay between chain solvation and intra-chain interactions (self-solvation) leads to conformational distributions that are modulated by salt concentration, with the wild-type sequence showing the most sensitivity to changes in salt concentration. These results suggest that the charge patterning within the wild-type p27 IDR may be optimized to sample both highly solvated and self-solvated conformational states."
 
-# Featured image thumbnail (optional)
-image_preview = ""
-
 # Is this a selected publication? (true/false)
 selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#projects = ["IDPs"]
+projects = ["ion-mobility", "mass-spectrometry"]
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
 
 # Links (optional).
 #url_pdf = "#"
@@ -49,6 +51,9 @@ url_preprint = "https://chemrxiv.org/articles/Ion_Mobility_Mass_Spectrometry_Unc
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
+# Digital Object Identifier (DOI)
+doi = ""
+
 # Does the content use math formatting?
 math = false
 
@@ -56,9 +61,12 @@ math = false
 highlight = true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "p27_main.png"
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = ""
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Center"
 +++
