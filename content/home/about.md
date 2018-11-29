@@ -33,4 +33,6 @@ weight = 5
 
 # Biography
 
-Lukasz is a PhD student (soon to be PostDoc, hopefully!) at the University of Manchester in Prof. Perdita Barran's group. Over the course of his PhD he has worked on multiple projects focusing on carbohydrates, proteins, protein complexes as well as in development of software tools to investigate MS and IM-MS results.
+I am PhD student (soon to be PostDoc) in biological mass spectrometry in the [Barran](https://www.mbc.manchester.ac.uk/barrangroup/) group, at the University of Manchester. My research focuses on studying proteins and protein complexes using mass spectrometry and ion mobility-mass spectrometry methods. During my PhD I have developed interest in software development and since, have created [ORIGAMI](https://lukasz-migas.github.io/ORIGAMI/), an open-source software suite for analysis of MS and IM-MS datasets. 
+
+I have also spent time investigating carbohydrates, developing software for analysis of imaging mass spectrometry (soon to be available..) as well as in-house used computational tools to calculate collision cross sections and perform molecular dynamics simulations. 
