@@ -1,10 +1,10 @@
 +++
 # Hero widget.
 widget = "hero"
-active = false
+active = true
 date = 2017-10-15T00:00:00
 
-title = "Academic"
+title = "ORIGAMI"
 
 # Order that this section will appear in.
 weight = 3
@@ -20,17 +20,18 @@ weight = 3
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "./post/getting-started/"
+  url = "https://lukasz-migas.github.io/ORIGAMI/installation.html"
   label = '<i class="fas fa-download"></i> Install Now'
 +++
+An open-source analysis and visualisation software. Interrogate MS and IM-MS datasets with ease, quickly extract spectral, chromatographic and ion-mobility information, compare multiple files together, deconvolute mass spectra and a lot more! Export all your datasets in an interactive format, to give insight into your data to work colleagues, reviewers and scientific community. 
 
-The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes :rocket:
 <div style="margin-top: -0.5rem;">
-  <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
-  Latest release <!-- V -->
+  <a id="academic-release" href="https://github.com/lukasz-migas/ORIGAMI/releases" data-repo="gcushen/lukasz-migas/ORIGAMI">
+  Latest release v1.2.0.3
   </a>
 </div>
 <div class="mt-3">
-  <a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
+  <a class="github-button" href="https://github.com/lukasz-migas/ORIGAMI" data-icon="octicon-star" data-size="large" data-show-count="false" aria-label="Star this on GitHub">Star</a>
+  <a class="github-button" href="https://github.com/lukasz-migas/ORIGAMI/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="false" aria-label="Fork this on GitHub">Fork</a>
 </div>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
