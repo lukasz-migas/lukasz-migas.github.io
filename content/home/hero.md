@@ -20,7 +20,7 @@ weight = 3
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "https://lukasz-migas.github.io/ORIGAMI/installation.html"
+  url = "https://lukasz-migas.github.io/ORIGAMI/main/installation.html"
   label = '<i class="fas fa-download"></i> Install Now'
 +++
 An open-source analysis and visualisation software. Interrogate MS and IM-MS datasets with ease, quickly extract spectral, chromatographic and ion-mobility information, compare multiple files together, deconvolute mass spectra and a lot more! Export all your datasets in an interactive format, to give insight into your data to work colleagues, reviewers and scientific community. 
