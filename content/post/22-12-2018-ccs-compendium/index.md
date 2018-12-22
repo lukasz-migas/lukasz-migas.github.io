@@ -34,13 +34,29 @@ projects = ["origami-project"]
   preview_only = false
 
 +++
+### Some background
+I recently came across this nice paper from John McLean's lab at Vanderbilt which discusses how we can use a relatively large (~4000 values) database of measured standards in omics studies. They have created a *R Shiny* app which provides interactivity to explore the dataset. Since I have been recently improving ORIGAMI's interactive capabilities, I've decided to embed their dataset in ORIGAMI and export it as a self-sufficient HTML document. This took me about ~10 minutes altogether (mostly rearranging columns and annotating text document). I think the results are quite close to the original publication (Figure 2a). 
+
+### Interactive figure
+
 <iframe 
-    width="620" 
+    width="825" 
     frameborder="0" 
-    height="610"
+    height="1100"
     src="https://lukasz-migas.com/assets/post-22-12-2018-ccs-compendium/CCS-Compendium.html"
     style="background: #FFFFFF;"
 ></iframe>
 
-Data:
-You can downlaod the data used for this figure from [here](https://lukasz-migas.com/assets/post-22-12-2018-ccs-compendium/ccs_compendium.txt.zip)
+### Data structure
+In order to implement this example, I've used ORIGAMI's metadata format that provides straightforward access to load annotated data. You can look in the example available for download. The format of the metadata text files is still not finalised, however, it contains several columns that permit ORIGAMI to figure out how to plot the data. Tags used in this example include:
+
+**Column tags**:
+
+*axis_x, axis_y, axis_label, axis_url, axis_color* 
+
+**Header tags**: 
+
+*title, plot_type, x_label, y_label, hover_labels*.
+
+### Download formatted data:
+You can download the data used for this figure from [here](https://lukasz-migas.com/assets/post-22-12-2018-ccs-compendium/ccs_compendium.txt.zip)
