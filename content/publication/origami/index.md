@@ -28,7 +28,7 @@ abstract = "We present here a software suite (**ORIGAMI**) that facilitates the 
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -61,7 +61,7 @@ doi = ""
 math = false
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -71,5 +71,5 @@ highlight = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Center"
 +++
