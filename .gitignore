@@ -2,3 +2,4 @@ public/
 .idea/
 hugo.exe
 resources*/
+content/.vscode/launch.json

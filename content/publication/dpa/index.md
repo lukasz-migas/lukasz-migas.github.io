@@ -1,0 +1,13 @@
++++
+title = "The potential of ion mobility mass spectrometry for tuning synthetic host guest systems: A case study using novel zinc(II)dipicolylamine anion sensors"
+date = 2015-01-01
+authors = ["Chris Nortcliffe", "Lukasz G. Migas", "Xuejian Liu", "Huy Tien Ngo", "Katrina A. Jolliffe", "Perdita E. Barran"]
+publication_types = ["2"]
+abstract = "Synthetic approaches to produce scaffolds that will act as efficient biosensors have been the subject of considerable research efforts in recent years. The preparation of host complexes which will specifically bind a given guest necessitates structural analysis of the potential complexes formed, as well as an assessment of the strength of the binding interaction. A challenge to the down-stream analytical scientist is to develop a rapid method that can probe the strength of binding, and the architecture of the complex. In this work we apply nano-ESI MS and Drift Tube ion mobility mass spectrometry (DT IM-MS) to examine host guest interactions. We present data on 5 cyclic peptide bis(ZnII-dipicolylamines) which have been systematically designed as potential molecular biosensors for pyrophosphate (PPi). The competition of the macrocycles for PPi compared with other small anions is investigated. Mass spectrometry provides the stoichiometry of the complex, and the proportion of complex preserved into the mass spectrometer correlates with solution phase data. We find the macrocycles have a higher affinity for PPi than for ATP or pyrocatechol violet (PV). The absolute scale of affinity from mass spectrometry is less (4–5 Log Ka) than that found in solution (4–9 Log Ka), but within the series of macrocycles trend in relative affinities are comparable. DT IM-MS shows that the collision cross sections (DTCCSHe) of the macrocycles are unchanged on binding PPi, indicating that the anion is within the designed binding pocket. We also find that binding has tightened the conformation of the macrocycle, as revealed from analysis of the collision cross section distributions (DTCCSDHe), where for 4/5 of the macrocycles there is a significant decrease in FWHM. Molecular mechanics (MMFF94) and semi empirical methods (ONIOM PM6:B3LYP/aug-cc-pvDZ) were used to generate candidate geometries for 4 to support our assertions on the nature of the binding pocket in the uncomplexed host, and to provide a route for improvement in the design."
+selected = false
+publication = "*International Journal of Mass Spectrometry*"
+tags = ["Ion mobility-MS", "Binding studies", "Non-covalent complexes", "Pyrophosphate", "Anion sensing"]
+url_pdf = "http://www.sciencedirect.com/science/article/pii/S1387380615002602"
+doi = "https://doi.org/10.1016/j.ijms.2015.07.030"
++++
+
