@@ -16,7 +16,7 @@ image_preview = "origami-preview.png"
 tags = ["mass-spectrometry", "ion-mobility", "data-acquisition", "python"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://lukasz-migas.github.io/ORIGAMI/"
+external_link = "https://origami.lukasz-migas.com"
 
 # Does the project detail page use math formatting?
 math = false
@@ -33,7 +33,7 @@ slides = "example-slides"
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/lukasz-migas/ORIGAMI"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

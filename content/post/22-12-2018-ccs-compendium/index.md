@@ -72,5 +72,4 @@ You can have a look at the way the data is structured below.
 
 You can download the data used for this figure from [here](https://lukasz-migas.com/assets/post-22-12-2018-ccs-compendium/ccs_compendium.txt.zip)
 
-
-*Last updated: 1/1/2019*
+*Last updated: 2/1/2019*
