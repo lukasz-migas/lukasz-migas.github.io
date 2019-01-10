@@ -13,7 +13,7 @@ weight = 3
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "origami-main-window.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
@@ -23,11 +23,11 @@ weight = 3
   url = "https://lukasz-migas.github.io/ORIGAMI/main/installation.html"
   label = '<i class="fas fa-download"></i> Install Now'
 +++
-An open-source analysis and visualisation software. Interrogate MS and IM-MS datasets with ease, quickly extract spectral, chromatographic and ion-mobility information, compare multiple files together, deconvolute mass spectra and a lot more! Export all your datasets in an interactive format, to give insight into your data to work colleagues, reviewers and scientific community. 
+An open-source analysis and visualisation software. Interrogate MS and IM-MS datasets with ease, quickly extract spectral, chromatographic and ion-mobility information, compare multiple files together, deconvolute mass spectra and a lot more! Export all your datasets in an interactive format, to give insight into your data to work colleagues, reviewers and scientific community.
 
 <div style="margin-top: -0.5rem;">
-  <a id="academic-release" href="https://github.com/lukasz-migas/ORIGAMI/releases" data-repo="gcushen/lukasz-migas/ORIGAMI">
-  Latest release v1.2.0.3
+  <a id="academic-release" href="https://github.com/lukasz-migas/ORIGAMI/releases" data-repo="/lukasz-migas/ORIGAMI">
+  Latest release <strong>v1.2.1.4</strong>
   </a>
 </div>
 <div class="mt-3">
