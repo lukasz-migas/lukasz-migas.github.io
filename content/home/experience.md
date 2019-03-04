@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Delft, NL"
   date_start = "2019-02-04"
   date_end = ""
-  description = """Development of novel software tools for analysis of multi-dimensional ion-mobility imaging mass spectrometry datasets
+  description = """Development of novel software tools for analysis of multi-dimensional imaging mass spectrometry datasets
   """
 
 [[experience]]

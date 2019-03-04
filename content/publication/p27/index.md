@@ -18,7 +18,7 @@ authors = ["Rebecca Beveridge", "Lukasz G. Migas", "Rahul Das", "Rohit Pappu", "
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*ChemRxiv*"
+publication = "*Journal of Americal Chemical Society*"
 #publication_short = "*ChemRxiv*"
 
 # Abstract and optional shortened version.
@@ -30,7 +30,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["ion-mobility", "mass-spectrometry"]
+projects = ["ion-mobility", "mass-spectrometry", "intrinsically disordered proteins"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -38,11 +38,11 @@ tags = []
 
 # Links (optional).
 #url_pdf = "#"
-url_preprint = "https://chemrxiv.org/articles/Ion_Mobility_Mass_Spectrometry_Uncovers_the_Impact_of_the_Patterning_of_Oppositely_Charged_Residues_on_the_Conformational_Distributions_of_Intrinsically_Disordered_Proteins/7312277"
+url_preprint = "https://pubs.acs.org/doi/10.1021/jacs.8b13483"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
-#url_slides = "#"
+url_slides = "https://beveridge-migas-p27.netlify.com/home/"
 #url_video = "#"
 #url_poster = "#"
 #url_source = ""
@@ -52,7 +52,7 @@ url_preprint = "https://chemrxiv.org/articles/Ion_Mobility_Mass_Spectrometry_Unc
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1021/jacs.8b13483"
 
 # Does the content use math formatting?
 math = false
