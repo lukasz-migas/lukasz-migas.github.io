@@ -25,7 +25,7 @@ publication = "*Angewandte Chemie*"
 abstract = "Intrinsically disordered proteins have been reported to undergo ‘disorder to order’ transitions upon binding to their partners in the cell. The extent of the ordering on binding and the lack of order prior to binding is difficult to visualize with classical structure determination methods. Binding of p27 to the Cdk2/cyclin A complex is accompanied by partial folding of p27 in the KID domain, with the retention of dynamic behaviour for function, particularly in the C-terminal half of the protein, positioning it as an exemplary system to probe conformational diversity. Here we employ native ion mobility with mass spectrometry (IM-MS) to measure the intrinsic dynamic properties of p27, both in isolation and within the trimeric complex with Cdk2/cyclin A. This stepwise approach reveals the conformational distributions of the constituent proteins and how they are restructured on complex formation; the trimeric Cdk2/cyclin A/p27-KID complex possesses significant structural heterogeneity cf. Cdk2/cyclin A. These findings support the formation of a fuzzy complex in which both the N and C termini of p27 interact with Cdk2/cyclin A in multiple closely associated states."
 
 # Is this a selected publication? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

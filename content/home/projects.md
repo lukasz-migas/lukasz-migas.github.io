@@ -16,9 +16,10 @@ weight = 10
 folder = "project"
 
 # View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 1
+#   1 = List
+#   3 = Card
+#   5 = Showcase
+view = 5
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
@@ -64,4 +65,3 @@ filter_default = 0
 
 
 +++
-
