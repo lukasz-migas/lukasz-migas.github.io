@@ -1,22 +1,22 @@
 +++
 # Date this page was created.
-date = "2017-09-01"
+date = "2019-05-15"
 
 # Project title.
-title = "ORIGAMI"
+title = "msalign"
 
 # Project summary to display on homepage.
-summary = "Two-component software suite for acquisition and analysis of MS and IM-MS datasets."
+summary = "msalign: calibration and alignment of multiple signals to reference peaks"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "origami-preview.png"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["mass-spectrometry", "ion-mobility", "data-acquisition", "python", "data-processing"]
+tags = ["mass-spectrometry", "ion-mobility", "data-processing", "python"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://origami.lukasz-migas.com"
+external_link = "https://msalign.lukasz-migas.com"
 
 # Does the project detail page use math formatting?
 math = false
@@ -33,7 +33,7 @@ slides = "example-slides"
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/lukasz-migas/ORIGAMI"
+url_code = "https://github.com/lukasz-migas/msalign"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

@@ -41,6 +41,14 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
+  name = "Data Processing"
+  tag = "data-processing"
+
+[[filter]]
+  name = "Data Acquisition"
+  tag = "data-acquisition"
+
+[[filter]]
   name = "Mass Spectrometry"
   tag = "mass-spectrometry"
 
@@ -51,6 +59,8 @@ filter_default = 0
 [[filter]]
   name = "Python"
   tag = "python"
+
+
 
 
 +++
