@@ -31,7 +31,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Postdoctoral Researcher"
   company = "University of Manchester"
-  company_url = ""
+  company_url = "https://flitschlab.com/"
   location = "Manchester, UK"
   date_start = "2018-09-15"
   date_end = "2019-01-31"
