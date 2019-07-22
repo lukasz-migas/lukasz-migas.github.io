@@ -33,6 +33,12 @@ weight = 5
 
 # Biography
 
-I am a Postdoctoral researcher in biological mass spectrometry in the [Barran](https://www.mbc.manchester.ac.uk/barrangroup/)/[Flitsch](http://flitschlab.com/) group, at the University of Manchester. My research focuses on studying proteins and protein complexes using mass spectrometry and ion mobility-mass spectrometry methods. During my PhD I have developed interest in software development and since, have created [ORIGAMI](https://lukasz-migas.github.io/ORIGAMI/), an open-source software suite for analysis of MS and IM-MS datasets.
+I am a Postdoctral researcher in the [Van de Plas lab](http://vandeplaslab.tudelft.nl/) group at the Delft University of
+Technology. My research focuses on developing new tools to study ion mobility (IM) and imaging mass spectrometry (IMS)
+datasets, however, I am interesting in anything to do with mass spectrometry and signal processing.
 
-I have also spent time investigating carbohydrates, developing software for analysis of imaging mass spectrometry (soon to be available..) as well as in-house tools to calculate collision cross sections and perform molecular dynamics simulations.
+Before moving to Delft, I've done a PhD under the supervision of [Prof. Barran](https://www.mbc.manchester.ac.uk/barrangroup/).
+During my PhD I've mostly studied carbohydrates, proteins, intrinsically disordered proteins (IDPs) and focused on developing
+a number of computational tools that enabled improved data acquisition rates on Waters Synapt platform and in-depth
+interrogation of MS and IM-MS datasets. During my PhD years, I became interested in software development, and created
+[ORIGAMI](https://lukasz-migas.github.io/ORIGAMI/).
