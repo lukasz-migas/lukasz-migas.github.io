@@ -49,7 +49,7 @@ url_slides = "https://beveridge-migas-p27.netlify.com/home/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1021/jacs.8b13483"

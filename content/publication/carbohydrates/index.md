@@ -49,7 +49,7 @@ url_preprint = "https://pubs.acs.org/action/showCitFormats?doi=10.1021%2Facs.ana
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

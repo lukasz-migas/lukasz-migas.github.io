@@ -47,7 +47,7 @@ url_preprint = "https://www.nature.com/articles/ncomms12163"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# links = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

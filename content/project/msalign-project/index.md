@@ -37,7 +37,7 @@ url_code = "https://github.com/lukasz-migas/msalign"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/munieq11"}]
+links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/munieq11"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
