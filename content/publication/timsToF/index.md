@@ -18,7 +18,7 @@ authors = ["Jeffrey M. Spraggins", "Katerina V. Djambazova", "Emilio S. Rivera",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Americal Chemical Society*"
+publication = "*Analytical Chemistry*"
 #publication_short = "*ChemRxiv*"
 
 # Abstract and optional shortened version.
