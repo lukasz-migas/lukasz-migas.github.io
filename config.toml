@@ -63,7 +63,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "l.g.migas@tudelft.nl"
-  phone = "+44 7738207371"
+  # phone = "+"
   # keybase = "lukasz-migas.github.io"  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
