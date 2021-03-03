@@ -33,12 +33,11 @@ weight = 5
 
 # Biography
 
-I am a Postdoctral researcher in the [Van de Plas lab](http://vandeplaslab.tudelft.nl/) group at the Delft University of
+I am a Postdoctoral Researcher in the [Van de Plas lab](http://vandeplaslab.tudelft.nl/) group at the Delft University of
 Technology. My research focuses on developing new tools to study ion mobility (IM) and imaging mass spectrometry (IMS)
-datasets, however, I am interesting in anything to do with mass spectrometry and signal processing.
+datasets, however, I am interested in anything to do with mass spectrometry and signal processing.
 
-Before moving to Delft, I've done a PhD under the supervision of [Prof. Barran](https://www.mbc.manchester.ac.uk/barrangroup/).
-During my PhD I've mostly studied carbohydrates, proteins, intrinsically disordered proteins (IDPs) and focused on developing
-a number of computational tools that enabled improved data acquisition rates on Waters Synapt platform and in-depth
-interrogation of MS and IM-MS datasets. During my PhD years, I became interested in software development, and created
-[ORIGAMI](https://lukasz-migas.github.io/ORIGAMI/).
+Before moving to Delft, I have completed a PhD under the supervision of [Prof. Barran](https://www.mbc.manchester.ac.uk/barrangroup/).
+During my PhD, I have mostly studied carbohydrates, proteins, intrinsically disordered proteins (IDPs) and focused on developing
+several computational tools that enabled improved data acquisition rates on Waters Synapt platform and in-depth
+interrogation of MS and IM-MS datasets. During this time, I became interested in software development and created [ORIGAMI-MS](https://github.com/lukasz-migas/ORIGAMI-MS) and [ORIGAMI](https://lukasz-migas.github.io/ORIGAMI/).
